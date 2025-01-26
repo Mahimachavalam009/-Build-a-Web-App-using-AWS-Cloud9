@@ -68,4 +68,10 @@ Psssst... EC2 = Elastic Compute Cloud.
 
 Here's what the three words mean: Elastic = flexible. This service can easily adapt and change in size and power to fit your needs. Compute = computing power. EC2 provides virtual computers that can do various tasks, just like your personal computer. Cloud = available over the internet.
 
+
+#  What does an EC2 'instance' mean? I
+f EC2 is the service that creates virtual computers/servers, an instance is one of those computers/servers.
+Picking an EC2 instance is like customising a virtual computer that fits what you need for your project. You can customize your EC2 instance's CPU, memory, storage, and networking capacity and more!
+
+
 # Step 3 : 
