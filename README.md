@@ -46,3 +46,17 @@ When you create an AWS account for the first time, the login you get is called t
 You should create IAM users instead. If a root user is a master key to your AWS account, think of IAM users as key copies. IAM users have separate usernames and passwords to your root user, and you can set them to have limited access to your account's resources.
 
 # Step 2 : Launch an EC2 Instance
+we want our web app to be entirely created and run on the cloud, we'll use a virtual server (EC2 instance) to house our development work.
+1) Launch a new EC2 instance.
+
+
+
+2) Set up a key pair for secure access.
+
+
+
+3) Set up network settings for your instance.
+
+   #  what your're building in this step :
+   
+   ![image](https://github.com/user-attachments/assets/4dfc9c12-3252-454d-a4f3-3a87e8741cca)
