@@ -17,6 +17,8 @@ In the first project of this series, you'll learn the basics of building a web a
 
 # Basic outline of steps : 
 1) 💻 Launch an EC2 instance.
+   
+![image](https://github.com/user-attachments/assets/ec918036-f94f-495d-b53b-f8138917b25e)
 
 
 
@@ -25,3 +27,6 @@ In the first project of this series, you'll learn the basics of building a web a
 
 
 3) ☕️ Install Maven and Java and generate a basic web app.
+
+
+
