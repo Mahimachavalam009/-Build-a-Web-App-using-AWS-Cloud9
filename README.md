@@ -4,6 +4,8 @@ Set Up a Web App in the Cloud
 
 
 7 series project, to achieve this: 
+
+
 ![image](https://github.com/user-attachments/assets/ecbaea21-1f35-4739-9cdb-380b91a41667)
 
 
