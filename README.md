@@ -80,3 +80,4 @@ Picking an EC2 instance is like customising a virtual computer that fits what yo
 
 
 
+# work in progress
