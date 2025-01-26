@@ -45,4 +45,4 @@ In AWS, a user is a person or a computer that can do things on the AWS cloud.
 When you create an AWS account for the first time, the login you get is called the root user of the AWS account. AWS actually recommends to not use your root user for everyday tasks to protect it from security breaches.
 You should create IAM users instead. If a root user is a master key to your AWS account, think of IAM users as key copies. IAM users have separate usernames and passwords to your root user, and you can set them to have limited access to your account's resources.
 
-# Step 2 : 
+# Step 2 : Launch an EC2 Instance
