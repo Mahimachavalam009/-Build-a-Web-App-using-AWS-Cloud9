@@ -23,6 +23,7 @@ In the first project of this series, you'll learn the basics of building a web a
 
 
 2) 🔌 Use VSCode to set up a remote SSH connection to your EC2 instance.
+   
 
 
 
@@ -30,3 +31,18 @@ In the first project of this series, you'll learn the basics of building a web a
 
 
 
+
+# Get started
+
+# Step 1 : Set up an IAM user
+Before we dive in, log in to your AWS account with your IAM user, Login with your IAM admin user
+
+tip :  make sure you log in to your IAM Admin User instead of the root user - it's truly best practise for account security
+
+
+#  What is an IAM user? Why are we setting one up? 
+In AWS, a user is a person or a computer that can do things on the AWS cloud.
+When you create an AWS account for the first time, the login you get is called the root user of the AWS account. AWS actually recommends to not use your root user for everyday tasks to protect it from security breaches.
+You should create IAM users instead. If a root user is a master key to your AWS account, think of IAM users as key copies. IAM users have separate usernames and passwords to your root user, and you can set them to have limited access to your account's resources.
+
+# Step 2 : 
