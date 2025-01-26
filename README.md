@@ -60,3 +60,12 @@ we want our web app to be entirely created and run on the cloud, we'll use a vir
  #  what your're building in this step :
  
    ![image](https://github.com/user-attachments/assets/4dfc9c12-3252-454d-a4f3-3a87e8741cca)
+
+# What is EC2? A legendary AWS service!
+Amazon EC2 is a service that lets you rent and use virtual computers in the cloud. They're like your personal computers, but they exist on the internet instead of being physically in front of you. You can create, customize, and use these computers for all different reasons, from running applications to hosting websites.
+
+Psssst... EC2 = Elastic Compute Cloud.
+
+Here's what the three words mean: Elastic = flexible. This service can easily adapt and change in size and power to fit your needs. Compute = computing power. EC2 provides virtual computers that can do various tasks, just like your personal computer. Cloud = available over the internet.
+
+# Step 3 : 
