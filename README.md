@@ -57,6 +57,6 @@ we want our web app to be entirely created and run on the cloud, we'll use a vir
 
 3) Set up network settings for your instance.
 
-   #  what your're building in this step :
-   
+ #  what your're building in this step :
+ 
    ![image](https://github.com/user-attachments/assets/4dfc9c12-3252-454d-a4f3-3a87e8741cca)
