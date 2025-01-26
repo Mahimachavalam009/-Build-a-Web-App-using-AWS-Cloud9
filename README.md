@@ -15,3 +15,13 @@ is a key tool to automate the steps from development (i.e. created by developers
 
 In the first project of this series, you'll learn the basics of building a web app using AWS and another tool called VSCode. This will lay the foundation for your DevOps work for the rest of this series!
 
+# Basic outline of steps : 
+1) 💻 Launch an EC2 instance.
+
+
+
+2) 🔌 Use VSCode to set up a remote SSH connection to your EC2 instance.
+
+
+
+3) ☕️ Install Maven and Java and generate a basic web app.
